@@ -1,3 +1,8 @@
+---
+tab: none
+layout: page
+---
+
 _Aprender ConTeXt_ es una introducción a [ConTeXt](http://contextgarden.net). ConTeXt es un sistema de composición tipográfica. Genera  documentos PDF de alta calidad a partir de órdenes tipográficas especializadas.
 
 El subtítulo apunta también un horizonte más amplio. _Una introducción a la tipografía digital_ lo es en la medida en que hay una explicación de ConTeXt. El libro trata de tipografía digital, pero no es el punto principal. Sólo comparece en la medida en que es la materia de ConTeXt.
