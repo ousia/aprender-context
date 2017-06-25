@@ -7,9 +7,6 @@ _Aprender ConTeXt_ es una introducción a [ConTeXt](http://contextgarden.net). C
 
 El subtítulo apunta también un horizonte más amplio. _Una introducción a la tipografía digital_ lo es en la medida en que hay una explicación de ConTeXt. El libro trata de tipografía digital, pero no es el punto principal. Sólo comparece en la medida en que es la materia de ConTeXt.
 
-## Otro título
-
-es sólo una prueba
 <!-- ## ¿Donaciones?
 
 _Aprender ConTeXt_ se ofrece gratuitamente a quien quiera leerlo. La distribución o difusión de los archivos —tanto con ánimo de lucro, como careciendo de él— no está permitida. Compartir en enlace a <http://www.aprender-context.tk> es la manera de compartir el libro.
