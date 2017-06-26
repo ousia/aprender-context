@@ -20,19 +20,19 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
       </header>
 
-      <div id="banner">
+      <div id="wrapper">
         <!--<span id="logo"></span>--->
         {% include site-nav.html %}
       </div><!-- end banner -->
 
-    <div class="wrapper">
+    <!--<div class="wrapper">
       <nav>
         <ul></ul>
       </nav>
       <section>
         {{ content }}
 
-      </section>
+      </section>-->
       <footer>
         {% if site.github.is_project_page %}
           <p>Es un projecto de <a href="{{ site.author.website }}">{{ site.author.name }}</a></p>
