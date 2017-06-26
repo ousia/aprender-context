@@ -1,6 +1,7 @@
 ---
 tab: none
 title: Introducción
+layout: page
 ---
 
 _Aprender ConTeXt_ es una introducción a [ConTeXt](http://contextgarden.net). ConTeXt es un sistema de composición tipográfica. Genera documentos PDF de alta calidad a partir de órdenes tipográficas especializadas.
