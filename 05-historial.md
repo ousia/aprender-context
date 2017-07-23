@@ -8,4 +8,5 @@ Las versiones se ordenan de menor a mayor. La clave es una referencia de publica
 
 Versión | Modificaciones
 --------- | -----------------
-1.0       | Primera versión publicada (clave `c8898b99aad74dcba84af9bfcd2465c9d28fa7f3`).
+0.0002       | Primera versión publicada (clave `e5063bbfc562b9a506b4f29f41e30b42bea7a3f0`).
+0.0001       | Primera versión publicada (clave `c8898b99aad74dcba84af9bfcd2465c9d28fa7f3`).

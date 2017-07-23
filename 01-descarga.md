@@ -5,6 +5,10 @@ permalink: /descarga/
 
 De momento, el libro es un borrador muy incipiente. Todavía le falta mucho desarrollo. Y a mí —como a cualquier persona adulta— me falta tiempo.
 
-Espero poder subir una versión del borrador que tenga el sumario completo —le faltará texto en casi todos los títulos—.
+La primera versión —contiene la introducción y el primer capítulo— está en dos formatos:
+
+* [Documento PDF](https://archive.org/download/aprender-context/aprender-context.pdf).
+
+* [Documento ePub](https://archive.org/download/aprender-context/aprender-context.epub).
 
 Si encuentras algún fallo o tienes alguna sugerencia, abre por favor [una incidencia](https://github.com/ousia/aprender-context/issues/new).
