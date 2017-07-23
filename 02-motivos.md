@@ -11,4 +11,4 @@ El trato está en lo que puede considerarse un pacto de nobleza:
 
 * Si crees que hay puntos erróneos o que deben corregirse, abre [una incidencia](https://github.com/ousia/aprender-context/issues/new) y cuenta cuáles son y en qué deben mejorar.
 
-* Si piensas que el libro es malo, agradezco la crítica. Es bueno que sea razonada. Y es necesario que sea respetuoso con las personas.
+* Si piensas que el libro es malo, agradezco la crítica. Es bueno que sea razonada. Y es necesario que sea respetuosa con las personas.
