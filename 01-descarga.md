@@ -5,7 +5,7 @@ permalink: /descarga/
 
 De momento, el libro es un borrador muy incipiente. Todavía le falta mucho desarrollo. Y a mí —como a cualquier persona adulta— me falta tiempo.
 
-La primera versión —contiene la introducción y el primer capítulo— está en dos formatos:
+La versión actual —según describo en el [historial](historial/)— está en dos formatos:
 
 * [Documento PDF](https://archive.org/download/aprender-context/aprender-context.pdf).
 
